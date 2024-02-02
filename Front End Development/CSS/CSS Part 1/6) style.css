@@ -1,0 +1,20 @@
+h1{
+    color: red;
+    background-color: aqua;
+}
+h2{
+ color: orange;
+ background-color: blue;
+}
+h3{
+ color: palevioletred;
+ background-color: chocolate;
+}
+p{
+ color: purple;
+ background-color: cornsilk;
+}
+button{
+ color: chartreuse;
+ background-color: black;
+}
